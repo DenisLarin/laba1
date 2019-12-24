@@ -208,6 +208,4 @@ function processNok(data: Array<any>): number {
     // return nok;
     return register['1111'];
 }
-
-
 main();
